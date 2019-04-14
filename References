@@ -1,0 +1,19 @@
+References
+----------
+
+Python (version 2.7.15). Python Software Foundation, 2018.
+https://docs.python.org/2.7/.
+
+J.J. Jorquera-Lucerga. Forma de cable/arco por construccion del poligono
+bidimensional de fuerzas (source code). 2010.
+
+Rhino.python (version 5). Robert McNeel & Associates, 2018.
+https://developer.rhino3d.com/5/guides/rhinopython/.
+
+J. Hunter, D. Dale, E. Firing, M. Droettboom, and et.al. Matplotlib (version
+2.2.3). NumFOCUS, 2018. https://matplotlib.org/2.2.3/contents.html.
+
+E. Gazoni and C. Clark. openpyxl (version 2.6.2). MIT/Expat, 2019.
+https://openpyxl.readthedocs.io/en/stable/.
+
+SAP2000 (version 20.2.0). Computers and Structures, inc., 2018.
