@@ -112,7 +112,10 @@ def getStartingArch(deckCoords):
 
 # return d_deck for deck with function deck and length L
 def getDeckDepth(deck, L):
-    deckCoords = getDeckCoords(deck, L, int(L * 5), 0.)
+    if type(deck) == list: 
+        deckCoords = deck
+    else:
+        deckCoords = getDeckCoords(deck, L, int(L * 5), 0.)
     deckCoordsY = map(lambda v: v.y(), deckCoords)
     dDeck = max(deckCoordsY) - min(deckCoordsY) 
     return dDeck
